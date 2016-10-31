@@ -1,0 +1,70 @@
+body,
+html{
+  background-color: black;
+}
+
+.bg {
+  position: fixed;
+  left: 0px;
+  width: 1000px;
+}
+
+  .icon3 {
+    position: absolute;
+    top: 65px;
+    left: 600px;
+    width: 35px;
+  }
+
+.row6font {
+  color: white;
+  font-size: 20px;
+  font-family: "Sans";
+    }
+
+footer {
+  position: absolute;
+  top: 530px;
+  bottom: 20px;
+  left: 200px;
+  text-align: center;
+  }
+
+.icon2 {
+  margin-right: 20px;
+  width: 50px;
+  }
+
+a.specialeffects:hover {
+  background-color: grey ;
+  text-decoration: none;
+}
+
+ .button1-align {
+    position: absolute;
+    top: 65px;
+    left: 210px;
+    
+}
+
+.button_font {
+  font-size: 15px;
+  }
+
+.message {
+  position: absolute;
+  background-color: white;
+  border-color: white;
+  width: 450px;
+  top: 103px;
+  left: 230px;
+  color: blue;
+  font-family: Aerial;
+  font-size: 17px;
+}
+
+.tweet {
+  position: relative;
+  left: 600px;
+  top: 350px;
+}
